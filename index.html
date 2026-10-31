@@ -1,0 +1,43 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0d1118"><meta name="robots" content="noindex,nofollow">
+<link rel="manifest" href="./manifest.webmanifest"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes">
+<title>Protótipo de combate</title>
+<style id="gate-css">html,body{margin:0;background:#0d1118;color:#e6e9ef;font:16px system-ui,sans-serif}
+#gate{min-height:100vh;display:flex;align-items:center;justify-content:center}
+#gate form{display:flex;flex-direction:column;gap:12px;width:min(320px,86vw)}
+#gate input[type=password]{font-size:18px;padding:12px;border-radius:8px;border:1px solid #334;background:#161b26;color:#fff}
+#gate button{font-size:18px;padding:12px;border:0;border-radius:8px;background:#e7a7b0;color:#111;font-weight:700}
+#gate .err{color:#ff6b6b;min-height:1.2em}#gate label.r{font-size:14px;opacity:.8}</style></head>
+<body><div id="gate"><form id="f" autocomplete="on"><label for="pw">Senha</label>
+<input id="pw" type="password" autocomplete="current-password" autofocus>
+<label class="r"><input id="lem" type="checkbox"> lembrar neste aparelho</label>
+<button id="go" type="submit">Jogar</button><div class="err" id="err"></div></form></div>
+<script>
+(function(){var META={"v":1,"iter":310000,"salt":"OtjRXX3FzqejflhCNdjpMw=="},LS='lastro-chave',S=crypto.subtle;
+function b64(s){return Uint8Array.from(atob(s),function(c){return c.charCodeAt(0)})}
+function hex(u){return btoa(String.fromCharCode.apply(null,new Uint8Array(u)))}
+async function dec(key,url){var b=new Uint8Array(await (await fetch(url,{cache:'no-cache'})).arrayBuffer());
+ return S.decrypt({name:'AES-GCM',iv:b.slice(0,12)},key,b.slice(12))}
+async function derive(pw){var k=await S.importKey('raw',new TextEncoder().encode(pw),'PBKDF2',false,['deriveBits']);
+ return S.deriveBits({name:'PBKDF2',hash:'SHA-256',salt:b64(META.salt),iterations:META.iter},k,256)}
+async function boot(raw,remember){var key=await S.importKey('raw',raw,'AES-GCM',false,['decrypt']);
+ var p=JSON.parse(new TextDecoder().decode(await dec(key,'./payload.enc')));
+ if(remember)localStorage.setItem(LS,META.salt+'|'+hex(raw));
+ var base=new URL('./assets/',location.href).href,td=new TextDecoder(),map={};
+ var srcs=await Promise.all(p.mods.map(function(m){return dec(key,'./assets/'+m+'.enc')}));
+ p.mods.forEach(function(m,i){var t=td.decode(srcs[i]).replace(/(["'`])\.\/([\w.-]+\.js)\1/g,function(_,q,n){return q+base+n+q});
+  map[base+m]=URL.createObjectURL(new Blob([t],{type:'text/javascript'}))});
+ var im=document.createElement('script');im.type='importmap';im.textContent=JSON.stringify({imports:map});document.head.appendChild(im);
+ p.css.forEach(function(h){var l=document.createElement('link');l.rel='stylesheet';l.href=h;document.head.appendChild(l)});
+ document.getElementById('gate-css').remove();document.body.innerHTML=p.body;
+ var s=document.createElement('script');s.type='module';s.textContent='import "'+base+p.entry+'";';document.body.appendChild(s)}
+var err=document.getElementById('err'),go=document.getElementById('go');
+var saved=localStorage.getItem(LS);
+if(saved&&saved.split('|')[0]===META.salt){boot(b64(saved.split('|')[1]),false).catch(function(){localStorage.removeItem(LS);location.reload()})}
+function fs(){try{if(matchMedia('(pointer: coarse)').matches){var d=document.documentElement,r=d.requestFullscreen||d.webkitRequestFullscreen;if(r){var q=r.call(d);if(q&&q.then)q.then(function(){if(screen.orientation&&screen.orientation.lock)screen.orientation.lock('landscape').catch(function(){})}).catch(function(){})}}}catch(_){}}
+document.getElementById('f').addEventListener('submit',async function(e){e.preventDefault();fs();err.textContent='';go.disabled=true;go.textContent='Abrindo...';
+ try{await boot(await derive(document.getElementById('pw').value),document.getElementById('lem').checked)}
+ catch(x){err.textContent='Senha errada';go.disabled=false;go.textContent='Jogar'}});
+})();
+</script></body></html>

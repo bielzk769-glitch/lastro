@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>LASTRO · Referência visual</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;background:#0b111b;color:#f2f3f5;font:14px/1.5 system-ui,sans-serif}main{max-width:1000px;margin:24px auto;padding:0 18px}h1{font-size:27px;letter-spacing:-.7px;margin:4px 0 8px}.eyebrow{font:11px monospace;letter-spacing:2px;color:#ed3548}p{color:#abb4bd;margin:8px 0}a{color:#e7a7b0}nav,.controls,.swatches{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center}.controls{padding:16px 0}label{display:flex;gap:7px;align-items:center;font-size:12px}button,select{font:inherit;background:#162431;color:#f2f3f5;padding:8px 10px;border:1px solid #48535f;border-radius:4px;cursor:pointer}button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid #ed3548;outline-offset:3px}input{accent-color:#ed3548}input[type=range]{width:150px}#scroll{overflow:auto;border:1px solid #30414d}#reference{width:960px;height:540px}canvas{display:block;image-rendering:pixelated}.swatches{padding:12px 0;font:11px monospace}.swatches span{display:flex;gap:7px;align-items:center}.swatches i{display:inline-block;width:14px;height:14px;border:1px solid #78818a}#status{font:12px/1.6 monospace;min-height:2em;color:#d6dce2}.notes{font-size:12px}details{padding:12px 0;border-top:1px solid #30414d}summary{cursor:pointer}#review{white-space:pre-wrap;font:12px/1.65 monospace;color:#b9c4cf}nav{font-size:12px;margin-top:12px}
+  </style>
+  <script type="module" crossorigin src="../assets/reference-CDKbaQY6.js"></script>
+  <link rel="modulepreload" crossorigin href="../assets/phaser-D-XnDQEP.js">
+  <link rel="modulepreload" crossorigin href="../assets/PlayerGait-BeKF5zV6.js">
+  <link rel="modulepreload" crossorigin href="../assets/CelActor-W1i2r6AJ.js">
+</head>
+<body><main>
+  <span class="eyebrow">LASTRO / ETAPA 01</span><h1>Uma escala. Uma identidade.</h1>
+  <p>Protagonista e três NPCs da primeira área. O quadro superior mantém a escala do jogo; o inferior amplia 2× sem suavização. Role horizontalmente em telas pequenas.</p>
+  <div class="controls">
+    <label>Fundo <select id="background"><option value="scene">Saguão atual</option><option value="dark">Escuro</option><option value="light">Claro</option></select></label>
+    <label>Ação <select id="action"><option value="idle">Em pé</option><option value="run">Corrida</option><option value="attack">Espada / rifle</option><option value="shoot">Tiro</option><option value="reload">Recarga</option><option value="guard">Defesa</option><option value="jump">Salto / pouso</option><option value="hurt">Dano</option><option value="death">Derrota</option></select></label>
+    <button id="toggle" type="button">Pausar</button><button id="flip" type="button">Virar</button>
+    <label><input id="guides" type="checkbox" checked>Guias</label><label><input id="silhouette" type="checkbox">Silhueta</label>
+    <label>Quadro bruto <input id="frame" type="range" min="0" max="35" value="12"><output id="number">12</output></label>
+    <button id="sequence" type="button">Voltar à animação</button>
+  </div>
+  <div id="scroll" tabindex="0" aria-label="Cena de referência de 960 por 540 pixels"><div id="reference"></div></div>
+  <p id="status" role="status">Carregando as folhas e o cenário…</p>
+  <div id="palette" class="swatches" aria-label="Paleta por função"></div>
+  <p class="notes">Guias: célula, apoio dos pés e altura em pé. Nos quadros de mira anotados: mão em branco, boca da arma em vermelho. São marcas visuais; não mudam colisão, alcance nem origem dos projéteis. Quadros compartilhados ainda são provisórios.</p>
+  <details><summary>Contrato e revisão do quadro atual</summary><div id="review"></div></details>
+  <nav><a href="/">Voltar ao jogo</a><a href="./frame-preview.html">Folhas completas</a><a href="./area-npcs-preview.html">Concepts das fases futuras</a></nav>
+</main></body></html>

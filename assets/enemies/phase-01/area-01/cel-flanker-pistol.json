@@ -1,0 +1,342 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "3": {
+      "frame": {
+        "x": 0,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "4": {
+      "frame": {
+        "x": 96,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "5": {
+      "frame": {
+        "x": 192,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    }
+  },
+  "meta": {
+    "image": "cel-flanker-pistol.png",
+    "size": {
+      "w": 288,
+      "h": 160
+    },
+    "cell": {
+      "width": 96,
+      "height": 80,
+      "x": 48,
+      "y": 64,
+      "columns": 3
+    },
+    "scale": 0.1226158038147139,
+    "source": "flanker-pistol-v1.png",
+    "regions": [
+      {
+        "left": 106,
+        "top": 111,
+        "right": 443,
+        "bottom": 476,
+        "anchorX": 267,
+        "anchorY": 475
+      },
+      {
+        "left": 602,
+        "top": 111,
+        "right": 947,
+        "bottom": 477,
+        "anchorX": 763.5,
+        "anchorY": 476
+      },
+      {
+        "left": 1091,
+        "top": 112,
+        "right": 1505,
+        "bottom": 477,
+        "anchorX": 1252,
+        "anchorY": 476
+      },
+      {
+        "left": 117,
+        "top": 576,
+        "right": 450,
+        "bottom": 952,
+        "anchorX": 298,
+        "anchorY": 951
+      },
+      {
+        "left": 618,
+        "top": 565,
+        "right": 924,
+        "bottom": 952,
+        "anchorX": 771.5,
+        "anchorY": 951
+      },
+      {
+        "left": 1089,
+        "top": 575,
+        "right": 1436,
+        "bottom": 952,
+        "anchorX": 1251.5,
+        "anchorY": 951
+      }
+    ],
+    "contractVersion": 1,
+    "timing": "gameplay-owned",
+    "annotations": [
+      {
+        "name": "p01_a01_flanker-pistol_draw_00",
+        "state": "draw",
+        "index": 0,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker-pistol_aim_01",
+        "state": "aim",
+        "index": 1,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": {
+          "x": 60,
+          "y": 32
+        },
+        "muzzle": {
+          "x": 70,
+          "y": 29
+        },
+        "bladeTip": null,
+        "review": "base",
+        "note": "Âncoras de apresentação anotadas; origem física do tiro preservada."
+      },
+      {
+        "name": "p01_a01_flanker-pistol_fire_02",
+        "state": "fire",
+        "index": 2,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": {
+          "x": 60,
+          "y": 32
+        },
+        "muzzle": {
+          "x": 70,
+          "y": 29
+        },
+        "bladeTip": null,
+        "review": "base",
+        "note": "Âncoras de apresentação anotadas; origem física do tiro preservada."
+      },
+      {
+        "name": "p01_a01_flanker-pistol_recoil_03",
+        "state": "recoil",
+        "index": 3,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker-pistol_reload_04",
+        "state": "reload",
+        "index": 4,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker-pistol_ready_05",
+        "state": "ready",
+        "index": 5,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": {
+          "x": 60,
+          "y": 31
+        },
+        "muzzle": {
+          "x": 70,
+          "y": 27
+        },
+        "bladeTip": null,
+        "review": "base",
+        "note": "Âncoras de apresentação anotadas; origem física do tiro preservada."
+      }
+    ],
+    "actions": [
+      "draw",
+      "aim",
+      "fire",
+      "recoil",
+      "reload",
+      "ready"
+    ],
+    "bounds": [
+      {
+        "minX": 28,
+        "maxX": 70,
+        "minY": 19,
+        "maxY": 65
+      },
+      {
+        "minX": 28,
+        "maxX": 71,
+        "minY": 19,
+        "maxY": 65
+      },
+      {
+        "minX": 28,
+        "maxX": 80,
+        "minY": 19,
+        "maxY": 65
+      },
+      {
+        "minX": 25,
+        "maxX": 67,
+        "minY": 18,
+        "maxY": 65
+      },
+      {
+        "minX": 29,
+        "maxX": 67,
+        "minY": 16,
+        "maxY": 65
+      },
+      {
+        "minX": 28,
+        "maxX": 71,
+        "minY": 17,
+        "maxY": 65
+      }
+    ]
+  }
+}

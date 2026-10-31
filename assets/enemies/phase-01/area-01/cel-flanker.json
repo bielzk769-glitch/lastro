@@ -1,0 +1,1538 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "3": {
+      "frame": {
+        "x": 288,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "4": {
+      "frame": {
+        "x": 384,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "5": {
+      "frame": {
+        "x": 480,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "6": {
+      "frame": {
+        "x": 576,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "7": {
+      "frame": {
+        "x": 672,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "8": {
+      "frame": {
+        "x": 0,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "9": {
+      "frame": {
+        "x": 96,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "10": {
+      "frame": {
+        "x": 192,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "11": {
+      "frame": {
+        "x": 288,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "12": {
+      "frame": {
+        "x": 384,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "13": {
+      "frame": {
+        "x": 480,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "14": {
+      "frame": {
+        "x": 576,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "15": {
+      "frame": {
+        "x": 672,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "16": {
+      "frame": {
+        "x": 0,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "17": {
+      "frame": {
+        "x": 96,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "18": {
+      "frame": {
+        "x": 192,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "19": {
+      "frame": {
+        "x": 288,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "20": {
+      "frame": {
+        "x": 384,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "21": {
+      "frame": {
+        "x": 480,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "22": {
+      "frame": {
+        "x": 576,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "23": {
+      "frame": {
+        "x": 672,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "24": {
+      "frame": {
+        "x": 0,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "25": {
+      "frame": {
+        "x": 96,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "26": {
+      "frame": {
+        "x": 192,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "27": {
+      "frame": {
+        "x": 288,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "28": {
+      "frame": {
+        "x": 384,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "29": {
+      "frame": {
+        "x": 480,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "30": {
+      "frame": {
+        "x": 576,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "31": {
+      "frame": {
+        "x": 672,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "32": {
+      "frame": {
+        "x": 0,
+        "y": 320,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "33": {
+      "frame": {
+        "x": 96,
+        "y": 320,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "34": {
+      "frame": {
+        "x": 192,
+        "y": 320,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "35": {
+      "frame": {
+        "x": 288,
+        "y": 320,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    }
+  },
+  "meta": {
+    "image": "cel-flanker.png",
+    "size": {
+      "w": 768,
+      "h": 400
+    },
+    "cell": {
+      "width": 96,
+      "height": 80,
+      "x": 48,
+      "y": 64,
+      "columns": 8
+    },
+    "scale": 0.2795031055900621,
+    "source": "flanker-poses-v1.png",
+    "regions": [
+      {
+        "left": 27,
+        "top": 48,
+        "right": 187,
+        "bottom": 214,
+        "anchorX": 108.68,
+        "anchorY": 213
+      },
+      {
+        "left": 234,
+        "top": 57,
+        "right": 395,
+        "bottom": 214,
+        "anchorX": 317.68,
+        "anchorY": 213
+      },
+      {
+        "left": 451,
+        "top": 57,
+        "right": 621,
+        "bottom": 214,
+        "anchorX": 526.68,
+        "anchorY": 213
+      },
+      {
+        "left": 641,
+        "top": 55,
+        "right": 809,
+        "bottom": 214,
+        "anchorX": 735.68,
+        "anchorY": 213
+      },
+      {
+        "left": 837,
+        "top": 61,
+        "right": 1017,
+        "bottom": 214,
+        "anchorX": 944.6799999999998,
+        "anchorY": 213
+      },
+      {
+        "left": 1056,
+        "top": 55,
+        "right": 1239,
+        "bottom": 214,
+        "anchorX": 1153.6799999999998,
+        "anchorY": 213
+      },
+      {
+        "left": 26,
+        "top": 271,
+        "right": 187,
+        "bottom": 427,
+        "anchorX": 108.68,
+        "anchorY": 426
+      },
+      {
+        "left": 234,
+        "top": 267,
+        "right": 406,
+        "bottom": 427,
+        "anchorX": 317.68,
+        "anchorY": 426
+      },
+      {
+        "left": 441,
+        "top": 254,
+        "right": 597,
+        "bottom": 427,
+        "anchorX": 526.68,
+        "anchorY": 426
+      },
+      {
+        "left": 646,
+        "top": 286,
+        "right": 814,
+        "bottom": 427,
+        "anchorX": 735.68,
+        "anchorY": 426
+      },
+      {
+        "left": 840,
+        "top": 299,
+        "right": 1034,
+        "bottom": 427,
+        "anchorX": 944.6799999999998,
+        "anchorY": 426
+      },
+      {
+        "left": 1068,
+        "top": 271,
+        "right": 1229,
+        "bottom": 427,
+        "anchorX": 1153.6799999999998,
+        "anchorY": 426
+      },
+      {
+        "left": 28,
+        "top": 496,
+        "right": 178,
+        "bottom": 656,
+        "anchorX": 108.68,
+        "anchorY": 655
+      },
+      {
+        "left": 241,
+        "top": 494,
+        "right": 401,
+        "bottom": 656,
+        "anchorX": 317.68,
+        "anchorY": 655
+      },
+      {
+        "left": 453,
+        "top": 532,
+        "right": 602,
+        "bottom": 656,
+        "anchorX": 526.68,
+        "anchorY": 655
+      },
+      {
+        "left": 644,
+        "top": 452,
+        "right": 781,
+        "bottom": 593,
+        "anchorX": 735.68,
+        "anchorY": 655
+      },
+      {
+        "left": 846,
+        "top": 479,
+        "right": 1031,
+        "bottom": 634,
+        "anchorX": 944.6799999999998,
+        "anchorY": 655
+      },
+      {
+        "left": 1062,
+        "top": 531,
+        "right": 1237,
+        "bottom": 656,
+        "anchorX": 1153.6799999999998,
+        "anchorY": 655
+      },
+      {
+        "left": 27,
+        "top": 696,
+        "right": 179,
+        "bottom": 865,
+        "anchorX": 108.68,
+        "anchorY": 864
+      },
+      {
+        "left": 246,
+        "top": 687,
+        "right": 395,
+        "bottom": 865,
+        "anchorX": 317.68,
+        "anchorY": 864
+      },
+      {
+        "left": 441,
+        "top": 704,
+        "right": 597,
+        "bottom": 865,
+        "anchorX": 526.68,
+        "anchorY": 864
+      },
+      {
+        "left": 669,
+        "top": 712,
+        "right": 787,
+        "bottom": 865,
+        "anchorX": 735.68,
+        "anchorY": 864
+      },
+      {
+        "left": 874,
+        "top": 724,
+        "right": 984,
+        "bottom": 865,
+        "anchorX": 944.6799999999998,
+        "anchorY": 864
+      },
+      {
+        "left": 1056,
+        "top": 697,
+        "right": 1240,
+        "bottom": 852,
+        "anchorX": 1153.6799999999998,
+        "anchorY": 851
+      },
+      {
+        "left": 51,
+        "top": 898,
+        "right": 203,
+        "bottom": 1053,
+        "anchorX": 108.68,
+        "anchorY": 1052
+      },
+      {
+        "left": 253,
+        "top": 900,
+        "right": 403,
+        "bottom": 1053,
+        "anchorX": 317.68,
+        "anchorY": 1052
+      },
+      {
+        "left": 431,
+        "top": 946,
+        "right": 601,
+        "bottom": 1053,
+        "anchorX": 526.68,
+        "anchorY": 1052
+      },
+      {
+        "left": 626,
+        "top": 963,
+        "right": 815,
+        "bottom": 1052,
+        "anchorX": 735.68,
+        "anchorY": 1051
+      },
+      {
+        "left": 841,
+        "top": 982,
+        "right": 1025,
+        "bottom": 1053,
+        "anchorX": 944.6799999999998,
+        "anchorY": 1052
+      },
+      {
+        "left": 1050,
+        "top": 1001,
+        "right": 1241,
+        "bottom": 1054,
+        "anchorX": 1153.6799999999998,
+        "anchorY": 1053
+      },
+      {
+        "left": 33,
+        "top": 1089,
+        "right": 191,
+        "bottom": 1231,
+        "anchorX": 108.68,
+        "anchorY": 1230
+      },
+      {
+        "left": 242,
+        "top": 1078,
+        "right": 391,
+        "bottom": 1231,
+        "anchorX": 317.68,
+        "anchorY": 1230
+      },
+      {
+        "left": 416,
+        "top": 1117,
+        "right": 607,
+        "bottom": 1231,
+        "anchorX": 526.68,
+        "anchorY": 1230
+      },
+      {
+        "left": 635,
+        "top": 1126,
+        "right": 812,
+        "bottom": 1235,
+        "anchorX": 735.68,
+        "anchorY": 1234
+      },
+      {
+        "left": 831,
+        "top": 1155,
+        "right": 1028,
+        "bottom": 1236,
+        "anchorX": 944.6799999999998,
+        "anchorY": 1235
+      },
+      {
+        "left": 1049,
+        "top": 1175,
+        "right": 1241,
+        "bottom": 1237,
+        "anchorX": 1153.6799999999998,
+        "anchorY": 1236
+      }
+    ],
+    "contractVersion": 1,
+    "timing": "gameplay-owned",
+    "annotations": [
+      {
+        "name": "p01_a01_flanker_run_00",
+        "state": "run",
+        "index": 0,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_run_01",
+        "state": "run",
+        "index": 1,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_run_02",
+        "state": "run",
+        "index": 2,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_run_03",
+        "state": "run",
+        "index": 3,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_run_04",
+        "state": "run",
+        "index": 4,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_run_05",
+        "state": "run",
+        "index": 5,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_00",
+        "state": "sword",
+        "index": 6,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_01",
+        "state": "sword",
+        "index": 7,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_02",
+        "state": "sword",
+        "index": 8,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_03",
+        "state": "sword",
+        "index": 9,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_04",
+        "state": "sword",
+        "index": 10,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_05",
+        "state": "sword",
+        "index": 11,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_movement_00",
+        "state": "movement",
+        "index": 12,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "restricted",
+        "note": "Pose-chave compartilhada; transições dedicadas nas etapas 2–3."
+      },
+      {
+        "name": "p01_a01_flanker_movement_01",
+        "state": "movement",
+        "index": 13,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "restricted",
+        "note": "Pose-chave compartilhada; transições dedicadas nas etapas 2–3."
+      },
+      {
+        "name": "p01_a01_flanker_movement_02",
+        "state": "movement",
+        "index": 14,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "restricted",
+        "note": "Pose-chave compartilhada; transições dedicadas nas etapas 2–3."
+      },
+      {
+        "name": "p01_a01_flanker_movement_03",
+        "state": "movement",
+        "index": 15,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "restricted",
+        "note": "Pose-chave compartilhada; transições dedicadas nas etapas 2–3."
+      },
+      {
+        "name": "p01_a01_flanker_movement_04",
+        "state": "movement",
+        "index": 16,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "restricted",
+        "note": "Pose-chave compartilhada; transições dedicadas nas etapas 2–3."
+      },
+      {
+        "name": "p01_a01_flanker_movement_05",
+        "state": "movement",
+        "index": 17,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "restricted",
+        "note": "Pose-chave compartilhada; transições dedicadas nas etapas 2–3."
+      },
+      {
+        "name": "p01_a01_flanker_guard_hurt_00",
+        "state": "guard_hurt",
+        "index": 18,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_guard_hurt_01",
+        "state": "guard_hurt",
+        "index": 19,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_guard_hurt_02",
+        "state": "guard_hurt",
+        "index": 20,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_guard_hurt_03",
+        "state": "guard_hurt",
+        "index": 21,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_guard_hurt_04",
+        "state": "guard_hurt",
+        "index": 22,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_guard_hurt_05",
+        "state": "guard_hurt",
+        "index": 23,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_defeat_00",
+        "state": "sword_defeat",
+        "index": 24,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_defeat_01",
+        "state": "sword_defeat",
+        "index": 25,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_defeat_02",
+        "state": "sword_defeat",
+        "index": 26,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_defeat_03",
+        "state": "sword_defeat",
+        "index": 27,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_defeat_04",
+        "state": "sword_defeat",
+        "index": 28,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_sword_defeat_05",
+        "state": "sword_defeat",
+        "index": 29,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_bullet_defeat_00",
+        "state": "bullet_defeat",
+        "index": 30,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_bullet_defeat_01",
+        "state": "bullet_defeat",
+        "index": 31,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_bullet_defeat_02",
+        "state": "bullet_defeat",
+        "index": 32,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_bullet_defeat_03",
+        "state": "bullet_defeat",
+        "index": 33,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_bullet_defeat_04",
+        "state": "bullet_defeat",
+        "index": 34,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      },
+      {
+        "name": "p01_a01_flanker_bullet_defeat_05",
+        "state": "bullet_defeat",
+        "index": 35,
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Base inspecionada; âncoras de arma ainda não anotadas."
+      }
+    ]
+  }
+}

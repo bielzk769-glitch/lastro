@@ -1,0 +1,1040 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "3": {
+      "frame": {
+        "x": 288,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "4": {
+      "frame": {
+        "x": 384,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "5": {
+      "frame": {
+        "x": 480,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "6": {
+      "frame": {
+        "x": 0,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "7": {
+      "frame": {
+        "x": 96,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "8": {
+      "frame": {
+        "x": 192,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "9": {
+      "frame": {
+        "x": 288,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "10": {
+      "frame": {
+        "x": 384,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "11": {
+      "frame": {
+        "x": 480,
+        "y": 80,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "12": {
+      "frame": {
+        "x": 0,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "13": {
+      "frame": {
+        "x": 96,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "14": {
+      "frame": {
+        "x": 192,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "15": {
+      "frame": {
+        "x": 288,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "16": {
+      "frame": {
+        "x": 384,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "17": {
+      "frame": {
+        "x": 480,
+        "y": 160,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "18": {
+      "frame": {
+        "x": 0,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "19": {
+      "frame": {
+        "x": 96,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "20": {
+      "frame": {
+        "x": 192,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "21": {
+      "frame": {
+        "x": 288,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "22": {
+      "frame": {
+        "x": 384,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    },
+    "23": {
+      "frame": {
+        "x": 480,
+        "y": 240,
+        "w": 96,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 80
+      }
+    }
+  },
+  "meta": {
+    "image": "cel-player-ground-v1.png",
+    "size": {
+      "w": 576,
+      "h": 320
+    },
+    "cell": {
+      "width": 96,
+      "height": 80,
+      "x": 48,
+      "y": 64
+    },
+    "scale": 0.20087336244541484,
+    "source": "protagonista-ground-source-v2.png",
+    "regions": [
+      {
+        "left": 63,
+        "right": 191,
+        "top": 33,
+        "bottom": 261,
+        "anchorX": 128,
+        "anchorY": 259
+      },
+      {
+        "left": 317,
+        "right": 447,
+        "top": 32,
+        "bottom": 261,
+        "anchorX": 384,
+        "anchorY": 259
+      },
+      {
+        "left": 572,
+        "right": 701,
+        "top": 35,
+        "bottom": 261,
+        "anchorX": 640,
+        "anchorY": 259
+      },
+      {
+        "left": 827,
+        "right": 957,
+        "top": 33,
+        "bottom": 261,
+        "anchorX": 896,
+        "anchorY": 259
+      },
+      {
+        "left": 1083,
+        "right": 1213,
+        "top": 33,
+        "bottom": 261,
+        "anchorX": 1152,
+        "anchorY": 259
+      },
+      {
+        "left": 1339,
+        "right": 1469,
+        "top": 33,
+        "bottom": 261,
+        "anchorX": 1408,
+        "anchorY": 259
+      },
+      {
+        "left": 46,
+        "right": 221,
+        "top": 284,
+        "bottom": 516,
+        "anchorX": 128,
+        "anchorY": 513
+      },
+      {
+        "left": 289,
+        "right": 477,
+        "top": 287,
+        "bottom": 516,
+        "anchorX": 384,
+        "anchorY": 513
+      },
+      {
+        "left": 576,
+        "right": 701,
+        "top": 283,
+        "bottom": 516,
+        "anchorX": 640,
+        "anchorY": 513
+      },
+      {
+        "left": 802,
+        "right": 984,
+        "top": 285,
+        "bottom": 516,
+        "anchorX": 896,
+        "anchorY": 513
+      },
+      {
+        "left": 1056,
+        "right": 1237,
+        "top": 286,
+        "bottom": 516,
+        "anchorX": 1152,
+        "anchorY": 513
+      },
+      {
+        "left": 1341,
+        "right": 1460,
+        "top": 284,
+        "bottom": 516,
+        "anchorX": 1408,
+        "anchorY": 513
+      },
+      {
+        "left": 46,
+        "right": 222,
+        "top": 546,
+        "bottom": 754,
+        "anchorX": 128,
+        "anchorY": 751
+      },
+      {
+        "left": 285,
+        "right": 482,
+        "top": 545,
+        "bottom": 757,
+        "anchorX": 384,
+        "anchorY": 751
+      },
+      {
+        "left": 538,
+        "right": 748,
+        "top": 548,
+        "bottom": 756,
+        "anchorX": 640,
+        "anchorY": 751
+      },
+      {
+        "left": 795,
+        "right": 994,
+        "top": 543,
+        "bottom": 759,
+        "anchorX": 896,
+        "anchorY": 751
+      },
+      {
+        "left": 1029,
+        "right": 1256,
+        "top": 545,
+        "bottom": 742,
+        "anchorX": 1152,
+        "anchorY": 751
+      },
+      {
+        "left": 1301,
+        "right": 1488,
+        "top": 547,
+        "bottom": 754,
+        "anchorX": 1408,
+        "anchorY": 751
+      },
+      {
+        "left": 34,
+        "right": 218,
+        "top": 802,
+        "bottom": 1001,
+        "anchorX": 128,
+        "anchorY": 996
+      },
+      {
+        "left": 268,
+        "right": 470,
+        "top": 785,
+        "bottom": 1001,
+        "anchorX": 384,
+        "anchorY": 996
+      },
+      {
+        "left": 547,
+        "right": 797,
+        "top": 780,
+        "bottom": 1001,
+        "anchorX": 640,
+        "anchorY": 996
+      },
+      {
+        "left": 839,
+        "right": 984,
+        "top": 774,
+        "bottom": 1001,
+        "anchorX": 896,
+        "anchorY": 996
+      },
+      {
+        "left": 1077,
+        "right": 1239,
+        "top": 776,
+        "bottom": 999,
+        "anchorX": 1152,
+        "anchorY": 996
+      },
+      {
+        "left": 1324,
+        "right": 1488,
+        "top": 776,
+        "bottom": 1001,
+        "anchorX": 1408,
+        "anchorY": 996
+      }
+    ],
+    "contractVersion": 1,
+    "timing": "gameplay-owned",
+    "rows": [
+      "idle",
+      "walk",
+      "run",
+      "start_brake_turn"
+    ],
+    "annotations": [
+      {
+        "name": "hero_player_ground_idle_00",
+        "state": "idle",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 0
+      },
+      {
+        "name": "hero_player_ground_idle_01",
+        "state": "idle",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 1
+      },
+      {
+        "name": "hero_player_ground_idle_02",
+        "state": "idle",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 2
+      },
+      {
+        "name": "hero_player_ground_idle_03",
+        "state": "idle",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 3
+      },
+      {
+        "name": "hero_player_ground_idle_04",
+        "state": "idle",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 4
+      },
+      {
+        "name": "hero_player_ground_idle_05",
+        "state": "idle",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 5
+      },
+      {
+        "name": "hero_player_ground_walk_00",
+        "state": "walk",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 6
+      },
+      {
+        "name": "hero_player_ground_walk_01",
+        "state": "walk",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 7
+      },
+      {
+        "name": "hero_player_ground_walk_02",
+        "state": "walk",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 8
+      },
+      {
+        "name": "hero_player_ground_walk_03",
+        "state": "walk",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 9
+      },
+      {
+        "name": "hero_player_ground_walk_04",
+        "state": "walk",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 10
+      },
+      {
+        "name": "hero_player_ground_walk_05",
+        "state": "walk",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 11
+      },
+      {
+        "name": "hero_player_ground_run_00",
+        "state": "run",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 12
+      },
+      {
+        "name": "hero_player_ground_run_01",
+        "state": "run",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 13
+      },
+      {
+        "name": "hero_player_ground_run_02",
+        "state": "run",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 14
+      },
+      {
+        "name": "hero_player_ground_run_03",
+        "state": "run",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 15
+      },
+      {
+        "name": "hero_player_ground_run_04",
+        "state": "run",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 16
+      },
+      {
+        "name": "hero_player_ground_run_05",
+        "state": "run",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 17
+      },
+      {
+        "name": "hero_player_ground_startRun_00",
+        "state": "startRun",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 18
+      },
+      {
+        "name": "hero_player_ground_startRun_01",
+        "state": "startRun",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 19
+      },
+      {
+        "name": "hero_player_ground_brake_00",
+        "state": "brake",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 20
+      },
+      {
+        "name": "hero_player_ground_brake_01",
+        "state": "brake",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 21
+      },
+      {
+        "name": "hero_player_ground_turn_00",
+        "state": "turn",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 22
+      },
+      {
+        "name": "hero_player_ground_turn_01",
+        "state": "turn",
+        "pivot": {
+          "x": 48,
+          "y": 64
+        },
+        "hand": null,
+        "muzzle": null,
+        "bladeTip": null,
+        "review": "base",
+        "note": "Etapa 2: desenho de locomoção dedicado; não fornece origem física de arma.",
+        "index": 23
+      }
+    ],
+    "reference": "ground/0 standing46px; same scale for all72cels"
+  }
+}

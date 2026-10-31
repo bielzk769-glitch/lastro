@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LASTRO · Inspeção quadro a quadro</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;background:#080c12;color:#e5e7ea;font:14px ui-monospace,Consolas,monospace}main{max-width:1320px;margin:auto;padding:24px 20px}h1{font-size:22px;margin:8px 0}p{color:#a9b4c0;line-height:1.55}a{color:#f38b96}.eyebrow{font-size:11px;letter-spacing:2px;color:#dd7b85}.controls{display:flex;align-items:center;gap:10px 16px;flex-wrap:wrap;margin:20px 0 12px}.controls label{display:flex;align-items:center;gap:8px}button,select{font:inherit;color:#eef0f3;background:#18212c;border:1px solid #46515f;border-radius:4px;padding:9px 12px;cursor:pointer}button:hover,select:hover{border-color:#e46a7c}input{accent-color:#e46a7c}input[type=range]{width:220px}output{min-width:2ch;font-variant-numeric:tabular-nums}.inspection-scroll{max-width:100%;overflow-x:auto;border:1px solid #344050}#preview{width:1280px;height:590px;background:#101721;overflow:hidden}canvas{display:block;image-rendering:pixelated}#status{margin:10px 0;font-size:12px;min-height:1.5em}.notes{font-size:12px}.legend{display:flex;flex-wrap:wrap;gap:20px;margin:14px 0;color:#afbac7;font-size:12px}.legend span:first-child{color:#71c9b3}.legend span:nth-child(2){color:#e5ad68}@media(max-width:650px){main{padding:18px 10px}h1{font-size:18px}.controls{gap:10px}input[type=range]{width:160px}}
+  </style>
+  <script type="module" crossorigin src="../assets/frames-4vIxliqz.js"></script>
+  <link rel="modulepreload" crossorigin href="../assets/phaser-D-XnDQEP.js">
+</head>
+<body>
+  <main>
+    <span class="eyebrow">LASTRO / FASE 1 · ÁREA 1</span>
+    <h1>Inspeção quadro a quadro</h1>
+    <p>Folhas normalizadas, vistas em escala nativa e ampliadas 3×. Esta página inspeciona os desenhos; os tempos e as transições da partida são controlados pelo combate. <a href="/">Voltar ao jogo</a></p>
+    <div class="controls" aria-label="Controles de inspeção">
+      <label for="action">Sequência <select id="action">
+        <option value="idle">Idle</option><option value="run" selected>Corrida</option><option value="attack">Ataque</option><option value="shoot">Tiro</option><option value="reload">Recarga</option><option value="guard">Defesa</option><option value="hurt">Dano</option><option value="death">Derrota — espada</option><option value="bullet-death">Derrota — tiro</option>
+      </select></label>
+      <button id="toggle" type="button">Pausar</button>
+      <button id="flip" type="button" aria-pressed="false">Virar para a esquerda</button>
+      <label for="frame">Quadro bruto <input id="frame" type="range" min="0" max="35" step="1" value="0"><output id="frame-value" for="frame">0</output></label>
+      <button id="sequence" type="button">Voltar à sequência</button>
+    </div>
+    <div class="legend"><span>＋ Pivô fixo nos pés</span><span>— Linha de apoio</span><span>Retângulo: célula 96 × 80 · quadros 0–35</span></div>
+    <div class="inspection-scroll" tabindex="0" aria-label="Quadros dos personagens; role horizontalmente para ver todas as colunas"><section id="preview" aria-label="Protagonista, presser, atiradora e flanker em duas escalas"></section></div>
+    <p id="status" role="status">Carregando os quatro atlas…</p>
+    <p class="notes">Arraste o controle para comparar o mesmo índice nas quatro folhas principais. Tiro e recarga do flanker usam sua folha extra de pistola; as demais sequências sem desenhos próprios indicam a ausência. Ataques e derrotas repetem com uma pausa de inspeção. Em telas estreitas, role as colunas horizontalmente: a escala dos pixels permanece fixa.</p>
+  </main>
+</body>
+</html>
